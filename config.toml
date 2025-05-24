@@ -1,0 +1,17 @@
+[db]
+data-source = "postgres://postgres:[YOUR-PASSWORD]@db.rdmgaawyczuroceqhajr.supabase.co:5432/postgres"
+prepare-stmt = false
+
+[jwt]
+secret = "f8d27c11e14b8215134fd758b4d248c1cc49beaccf6ee544f02e16e0efd8efa6"
+
+[tg]
+app-id = "21062778"
+app-hash = "55997f52d4f302f89dd44195a9725924"
+
+
+[tg.uploads]
+encryption-key = 'DivisionOverflowResultAnnoyanceThreadCalculationShillingAdventureElectricReputation8'
+max-retries = 10
+retention = '7d'
+threads = '8'
